@@ -4,11 +4,11 @@ import Container from "./Container";
 function App() {
   return (
     <div className="App">
-      <Container header="Example header" direction="horizontal">
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
+      <Container header="Tortoise" direction="horizontal">
+        <div>Hello!</div>
+        <div>My name is Patience</div>
+        <div>We will see images of Tortoises</div>
+        <div>I love coding</div>
         <div>This is an example!</div>
         <div>This is an example!</div>
         <div>This is an example!</div>
